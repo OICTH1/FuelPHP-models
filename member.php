@@ -12,6 +12,7 @@ class Model_Member extends \Orm\Model
 		'mailaddress',
 		'password',
 		'tel',
+		'postalcode',
 	);
 
 
